@@ -6,17 +6,17 @@ sprinks:
   disabled-text-color: '#bdbdbd'
   
   # main interface colors
-  primary-color: '#5D8C2E'
-  dark-primary-color: '#f92aad'
-  light-primary-color: '#7FBF3F'
-  accent-color: '#f92aad'
+  primary-color: '#43520E'
+  dark-primary-color: '#1F360B'
+  light-primary-color: '#324218'
+  accent-color: '#A9BF04'
   divider-color: '#49549539'
-  paper-dialog-button-color: '#fff'
-  
+  paper-dialog-button-color: '#fff785'
+
   ###
   
   # background and sidebar
-  card-background-color: '#D6F272'
+  card-background-color: '#5D8C2E'
   paper-card-background-color: 'var(--card-background-color)'
   primary-background-color: 'var(--primary-color)' 
   secondary-background-color: 'var(--light-primary-color)' # behind the cards on state
